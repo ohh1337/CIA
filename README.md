@@ -14,7 +14,7 @@
 ---
 
 ### // PREVIEW the BOT
-<img src="image_0.png" width="90%">
+<img src="image_0.jpg" width="90%">
 
 <br>
 
